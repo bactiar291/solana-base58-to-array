@@ -1,4 +1,5 @@
 # solana-base58-to-array
+# biasanya kita menjumpai private keys berbasis base58 dalam wallet phantom , backpack atau sejenisnya
 skrip ini berguna untuk mengubah private keys "solana" dari base58 menjadi array 
 # contoh private keys base 58 yang di ubah menjadi array
 contoh PK base 58 : (4mWt4K3Dy9vNcMHJ7p2Jz7AfujEn8qPtkTjzMyYsmw5B)
