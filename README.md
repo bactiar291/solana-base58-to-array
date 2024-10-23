@@ -39,7 +39,11 @@ git clone https://github.com/bactiar291/solana-base58-to-array.git
 cd solana-base58-to-array
 ```
 
-### 2.  Menginstal Dependensi
+### 2. Jangan lupa untuk mengubah nano .env 
+
+ BASE58_ENCODED_KEY=DIISI DENGAN PRIVATE KEYS BASE58 KALIAN
+
+### 3.  Menginstal Dependensi
 Untuk Python:
 Jika Anda menggunakan implementasi Python, pertama-tama buat lingkungan virtual (opsional tetapi disarankan) dan instal pustaka yang diperlukan:
 
@@ -50,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 
-### 3. run atau jalankan 
+### 4. run atau jalankan 
 ```bash
 python solana-pk.py
 ```
