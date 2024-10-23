@@ -44,7 +44,6 @@ Untuk Python:
 Jika Anda menggunakan implementasi Python, pertama-tama buat lingkungan virtual (opsional tetapi disarankan) dan instal pustaka yang diperlukan:
 
 ```bash
-Salin kode
 python -m venv venv 
 source venv/bin/activate  
 pip install -r requirements.txt
