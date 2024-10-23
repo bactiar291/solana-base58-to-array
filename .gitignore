@@ -1,18 +1,41 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+__pycache__/
+*.py[cod]
+*.pyo
 
-# Other files and folders
-.settings/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+.env
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+
+*.key
+*.pem
+*.crt
+*.cer
+
+
+solana_wallet.json
+keypair.json
+
+
+*.log
+*.out
+*.pid
+*.gz
+
+
+.DS_Store
+Thumbs.db
+
+
+coverage/
+*.lcov
+
+
+dist/
+build/
+
+
+*.tmp
+*.temp
+
+
+base58_key.txt
